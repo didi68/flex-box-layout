@@ -108,7 +108,7 @@ h2 {
         width: 100%;
     }
 
-    .box-1 > p {
+    .box-1 > p, .box-2 > p {
         line-height: 1.2;
     }
 }
